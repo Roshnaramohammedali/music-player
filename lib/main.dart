@@ -84,6 +84,12 @@ class _MyHomePageState extends State<MyHomePage> {
           // children horizontally, and tries to be as tall as its parent.
           //
           //
+
+
+          //Added lots of features
+
+
+
           // Column has various properties to control how it sizes itself and
           // how it positions its children. Here we use mainAxisAlignment to
           // center the children vertically; the main axis here is the vertical
