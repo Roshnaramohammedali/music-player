@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.ai_music_player">
+    package="com.example.radio_project">
    <application
-        android:label="ai_music_player"
+        android:label="radio_project"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

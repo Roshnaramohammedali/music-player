@@ -1,4 +1,4 @@
-# AI Music Player
+# radio_project
 
 A new Flutter project.
 

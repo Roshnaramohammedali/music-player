@@ -1,6 +1,6 @@
 {
-    "name": "ai_music_player",
-    "short_name": "ai_music_player",
+    "name": "radio_project",
+    "short_name": "radio_project",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
